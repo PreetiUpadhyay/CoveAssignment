@@ -1,0 +1,21 @@
+.header {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.post {
+  margin: 1rem;
+  text-align: center;
+  border: thin solid #888;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.posts__title {
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 12px;
+}
